@@ -10,6 +10,6 @@ please cite
 {
  bibetex
  autor:
- $a^2$
+ a^2
 }
 ```
